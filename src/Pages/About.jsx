@@ -6,7 +6,7 @@ import aboutimg2 from '../assets/aboutimg1.jpg'
 import PdfViewer from '../components/PdfViewer'
 const About = () => {
   const [showPdf, setShowPdf] = useState(false);
-  const pdfUrl = '/Vidya - Resume.pdf'; 
+  const pdfUrl = '/Vidyamol Udayan_Entri.pdf'; 
 
   const handleButtonClick = () => {
     setShowPdf(true);
