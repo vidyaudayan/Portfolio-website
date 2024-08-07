@@ -19,7 +19,7 @@ const Home = () => {
   <div className="homeContent">
     <div>
       <h3>Hello, It's me</h3>
-      <h1>Vidya Udayan</h1>
+      <h1>Vidyamol Udayan</h1>
       <h3>
         And I'm a <Type/>
       </h3>
