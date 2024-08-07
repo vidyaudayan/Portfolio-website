@@ -24,7 +24,7 @@ const About = () => {
         About <span>Me</span>
       </h2>
       <h4>Full Stack Developer</h4>
-      <p>
+      <p className='text-white'>
       Enthusiastic and adaptable full-stack developer passionate about learning and working in web development technologies. Seeking to leverage diverse technical skills and programming expertise in a dynamic Full Stack Developer role. Eager to contribute innovative solutions to complex software development challenges while continuously expanding knowledge of cutting-edge technologies. Committed to delivering high-quality, scalable applications that drive business success and user satisfaction.
         </p>
 
